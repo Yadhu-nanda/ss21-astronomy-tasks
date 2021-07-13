@@ -1,2 +1,2 @@
 # Hands-On Astronomy tasks
-Go [here](README.md) to see what you've gotta do.
+Go [here](TASK.md) to see what you've gotta do.
