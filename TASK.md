@@ -1,6 +1,6 @@
 # Task for Hands-On Astronomy
 
-### Deadline: 14/07/2021 11:59 PM
+### Deadline: 15/07/2021 11:59 AM
 
 ## Rules
 
